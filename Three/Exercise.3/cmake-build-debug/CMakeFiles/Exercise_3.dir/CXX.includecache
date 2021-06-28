@@ -1,0 +1,184 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/Three/Exercise.3/main.cpp
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+-
+string
+-
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+-
+vector
+-
+string
+-
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+cstdlib
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstdlib
+ctime
+E:/ClionProject/C++ Primer/Three/Exercise.3/ctime
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+ctime
+E:/ClionProject/C++ Primer/Three/Exercise.3/ctime
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+cstdlib
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstdlib
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+string
+E:/ClionProject/C++ Primer/Three/Exercise.3/string
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+cstring
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstring
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+cstring
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstring
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+ctime
+E:/ClionProject/C++ Primer/Three/Exercise.3/ctime
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+cstdlib
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstdlib
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+cstdlib
+E:/ClionProject/C++ Primer/Three/Exercise.3/cstdlib
+ctime
+E:/ClionProject/C++ Primer/Three/Exercise.3/ctime
+vector
+E:/ClionProject/C++ Primer/Three/Exercise.3/vector
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+iostream
+E:/ClionProject/C++ Primer/Three/Exercise.3/iostream
+

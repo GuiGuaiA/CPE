@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/Two/Exercises/main.cpp
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+typeinfo
+E:/ClionProject/C++ Primer/Two/Exercises/typeinfo
+iostream
+-
+typeinfo
+-
+iostream
+E:/ClionProject/C++ Primer/Two/Exercises/iostream
+

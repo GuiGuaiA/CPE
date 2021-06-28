@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/Four/Exercise.4/main.cpp
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+ctime
+E:/ClionProject/C++ Primer/Four/Exercise.4/ctime
+vector
+E:/ClionProject/C++ Primer/Four/Exercise.4/vector
+cstdlib
+E:/ClionProject/C++ Primer/Four/Exercise.4/cstdlib
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+ctime
+E:/ClionProject/C++ Primer/Four/Exercise.4/ctime
+cstdlib
+E:/ClionProject/C++ Primer/Four/Exercise.4/cstdlib
+vector
+E:/ClionProject/C++ Primer/Four/Exercise.4/vector
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+string
+E:/ClionProject/C++ Primer/Four/Exercise.4/string
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+string
+E:/ClionProject/C++ Primer/Four/Exercise.4/string
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+iostream
+E:/ClionProject/C++ Primer/Four/Exercise.4/iostream
+

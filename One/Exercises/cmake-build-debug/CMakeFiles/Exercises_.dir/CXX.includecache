@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/One/Exercises/main.cpp
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+sales_item
+E:/ClionProject/C++ Primer/One/Exercises/sales_item
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+sales_item.h
+E:/ClionProject/C++ Primer/One/Exercises/sales_item.h
+iostream
+E:/ClionProject/C++ Primer/One/Exercises/iostream
+sales_item.h
+E:/ClionProject/C++ Primer/One/Exercises/sales_item.h
+
+E:/ClionProject/C++ Primer/One/Exercises/sales_item.h
+iostream
+-
+string
+-
+

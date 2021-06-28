@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/Five/Exercise.5/main.cpp
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+string
+E:/ClionProject/C++ Primer/Five/Exercise.5/string
+vector
+E:/ClionProject/C++ Primer/Five/Exercise.5/vector
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+string
+E:/ClionProject/C++ Primer/Five/Exercise.5/string
+vector
+E:/ClionProject/C++ Primer/Five/Exercise.5/vector
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+-
+string
+-
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+vector
+E:/ClionProject/C++ Primer/Five/Exercise.5/vector
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+string
+E:/ClionProject/C++ Primer/Five/Exercise.5/string
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+string
+E:/ClionProject/C++ Primer/Five/Exercise.5/string
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+string
+E:/ClionProject/C++ Primer/Five/Exercise.5/string
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+iostream
+E:/ClionProject/C++ Primer/Five/Exercise.5/iostream
+stdexcept
+-
+
