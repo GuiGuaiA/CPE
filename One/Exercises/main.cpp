@@ -81,6 +81,10 @@ int main() {
 }
 */
 
+#include "iostream"
+
+
+
 /*
 1.11
 #include "iostream"
@@ -157,6 +161,34 @@ int main(){
 
     return 0;
 }*/
+
+#include "iostream"
+using namespace std;
+
+int cnt(int sum, int v){
+    sum += v;
+    return sum;
+}
+
+int cnt2(int v,int sum){
+        for( v = 50; v <= 100; v++)
+            sum += v;
+        return sum;
+}
+
+/*int main(){
+    int sum, v;
+    cout << " " << endl;
+    cout << " ";
+    cin >> sum >> v;
+    cout << " " << cnt(sum, v) << endl;
+    return 0;*/
+int main(){
+   int sum = 0,v;
+   cin >> sum >> v;
+   cout << " " << cnt2(sum,v) << endl;
+    return 0;
+}
 
 
 

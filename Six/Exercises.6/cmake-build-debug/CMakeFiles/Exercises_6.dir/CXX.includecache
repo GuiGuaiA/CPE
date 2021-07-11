@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionProject/C++ Primer/Six/Exercises.6/main.cpp
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+cmath
+E:/ClionProject/C++ Primer/Six/Exercises.6/cmath
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+string
+E:/ClionProject/C++ Primer/Six/Exercises.6/string
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+ctime
+E:/ClionProject/C++ Primer/Six/Exercises.6/ctime
+cstdlib
+E:/ClionProject/C++ Primer/Six/Exercises.6/cstdlib
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+string
+E:/ClionProject/C++ Primer/Six/Exercises.6/string
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+iostream
+-
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+vector
+E:/ClionProject/C++ Primer/Six/Exercises.6/vector
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+string
+E:/ClionProject/C++ Primer/Six/Exercises.6/string
+vector
+E:/ClionProject/C++ Primer/Six/Exercises.6/vector
+iostream
+E:/ClionProject/C++ Primer/Six/Exercises.6/iostream
+vector
+E:/ClionProject/C++ Primer/Six/Exercises.6/vector
+

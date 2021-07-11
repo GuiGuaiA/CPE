@@ -11,7 +11,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="748200c8-8943-43cc-8574-aca4bec3cef2" name="Default Changelist" comment="" />
+    <list default="true" id="748200c8-8943-43cc-8574-aca4bec3cef2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercises/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Five/Exercise.5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Five/Exercise.5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/cmake-build-debug/CMakeFiles/Exercises_.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/cmake-build-debug/Exercises_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/cmake-build-debug/Exercises_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercises/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercises/main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +31,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -30,6 +43,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1sk55HHpwRpx3GBhgVaAEuLgWP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CassandraQL&#10;ObjectiveC" />
@@ -69,10 +84,24 @@
       <workItem from="1622448455678" duration="11000" />
       <workItem from="1622458198010" duration="13000" />
       <workItem from="1622464365236" duration="644000" />
+      <workItem from="1624943580427" duration="6347000" />
+      <workItem from="1625108786632" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
